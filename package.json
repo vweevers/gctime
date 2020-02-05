@@ -1,6 +1,6 @@
 {
   "name": "gctime",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Record time spent on GC in high resolution",
   "license": "MIT",
   "author": "Vincent Weevers",
